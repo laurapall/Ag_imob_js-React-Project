@@ -58,4 +58,4 @@ This project is licensed under the MIT License.
 If you have any questions, suggestions, or issues related to this project, feel free to contact us at [flaurapall@gmail.com].
 
 ## Author
-** [Pall Laura](https://github.com/laurapall)
+* [Pall Laura](https://github.com/laurapall)
