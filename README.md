@@ -48,6 +48,25 @@ The project uses the following main dependencies:
 - `react-icons`: A library for including popular icon sets in React applications.
 - `react-router-dom`: A library for handling routing in React applications.
 
+## Screenshots
+
+<br><br>
+<img width="2048" alt="Screenshot 2023-07-17 at 18 35 51" src="https://github.com/laurapall/Ag_imob_js-React-Project/assets/48211193/85cdbc6f-1cef-4549-b554-30f5366890c4">
+
+<br><br>
+
+<img width="2048" alt="Screenshot 2023-07-17 at 18 36 01" src="https://github.com/laurapall/Ag_imob_js-React-Project/assets/48211193/10d0ce5d-f566-413e-9cac-9cc81b6b9bbb">
+
+<br><br>
+
+<img width="2048" alt="Screenshot 2023-07-17 at 18 38 55" src="https://github.com/laurapall/Ag_imob_js-React-Project/assets/48211193/ee27d013-700a-4bcd-9f1b-c35ce29c962f">
+
+<br><br>
+
+<img width="2048" alt="Screenshot 2023-07-17 at 18 39 14" src="https://github.com/laurapall/Ag_imob_js-React-Project/assets/48211193/f5471734-dbf2-40e8-bb2f-76ef1bbecda5">
+
+<br><br>
+
 ## Contributing
 Contributions to the project are welcome! If you have suggestions, bug reports, or want to add new features, feel free to create pull requests or report issues.
 
